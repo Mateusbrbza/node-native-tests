@@ -1,0 +1,14 @@
+{
+  "name": "native-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/",
+    "test:dev": "node --watch --test test/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
